@@ -9,6 +9,15 @@ Este projeto analisa a eficiência operacional e a qualidade do atendimento em u
 3. Quais especialidades possuem maior taxa de No-Show?
 4. Qual o perfil dos pacientes Detratores, Neutros e Promotores?
 
+## 📊 Dashboard Interativo
+
+## 📜 Prints das telas do Dashboard
+![Dashboard Performance e Jornada do Paciente](analise-saude-nps-faturamento_capa1.png)
+![Dashboard Performance e Jornada do Paciente](analise-saude-nps-faturamento_capa2.png)
+
+## 🔗 Link do Dashboard Interativo
+([Demo Dashboard Performance e Jornada do Paciente](https://youtu.be/G8m1W-WBSrY))
+
 ## 🛠️ Tecnologias Utilizadas
 * **Python (Pandas/Numpy):** Enriquecimento de dados, precificação automática e simulação de cenários.
 * **Excel:** Fonte de dados bruta.
@@ -35,15 +44,6 @@ Após o processamento em Python, os dados foram refinados no Power BI:
 * **Perda Financeira:** Soma do `Valor_Consulta` onde `Status = 'No-Show'`.
 * **NPS Score:** `(% Promotores) - (% Detratores)`.
 * **Tempo Médio de Espera:** Análise por especialidade.
-
-## 📊 Dashboard Interativo
-
-## 📜 Prints das telas do Dashboard
-![Dashboard Performance e Jornada do Paciente](analise-saude-nps-faturamento_capa1.png)
-![Dashboard Performance e Jornada do Paciente](analise-saude-nps-faturamento_capa2.png)
-
-## 🔗 Link do Dashboard Interativo
-([Demo Dashboard Performance e Jornada do Paciente](https://youtu.be/G8m1W-WBSrY))
-
+  
 ---
 *Desenvolvido por Andressa*
