@@ -1,7 +1,7 @@
 # 🏥📉 Jornada do Paciente e Impacto Financeiro (No-Show)
 
 ## 📋 Sobre o Projeto
-Este projeto analisa a eficiência operacional e a qualidade do atendimento em uma rede de clínicas de saúde. O objetivo principal é identificar gargalos na jornada do paciente (atrasos, satisfação via NPS) e quantificar o impacto financeiro do absenteísmo (No-Show).
+Este projeto analisa a eficiência operacional e a qualidade do atendimento de clínicas de saúde. O objetivo principal é identificar gargalos na jornada do paciente (atrasos, satisfação via NPS) e quantificar o impacto financeiro do absenteísmo (No-Show).
 
 **Principais Perguntas de Negócio Respondidas:**
 1. Qual o valor financeiro perdido por pacientes que agendam e não comparecem?
@@ -32,7 +32,7 @@ Utilização de script Python para enriquecer a base bruta que não continha val
 
 ### 2. Transformação de Dados (Power Query / M)
 Após o processamento em Python, os dados foram refinados no Power BI:
-* **Cálculo de Atraso:** Diferença entre `stamp_agendamento` e `stamp_atendimento`.
+* **Cálculo de Atraso:** Diferença entre agendamentos e atendimentos.
 * **Classificação NPS:** Criação da coluna condicional seguindo a metodologia oficial:
     * *Detrator:* Notas 0 a 6
     * *Neutro:* Notas 7 e 8
