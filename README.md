@@ -1,4 +1,4 @@
-# 🏥📉 Jornada do Paciente & Impacto Financeiro (No-Show)
+# 🏥📉 Jornada do Paciente e Impacto Financeiro (No-Show)
 
 ## 📋 Sobre o Projeto
 Este projeto analisa a eficiência operacional e a qualidade do atendimento em uma rede de clínicas de saúde. O objetivo principal é identificar gargalos na jornada do paciente (atrasos, satisfação via NPS) e quantificar o impacto financeiro do absenteísmo (No-Show).
