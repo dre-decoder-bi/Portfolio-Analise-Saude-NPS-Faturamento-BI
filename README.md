@@ -21,7 +21,7 @@ Este projeto analisa a eficiência operacional e a qualidade do atendimento de c
 ![Dashboard Performance e Jornada do Paciente](analise-saude-nps-faturamento_capa2.png)
 
 ## 🔗 Link do Dashboard Interativo
-([Demo Dashboard Performance e Jornada do Paciente](https://youtu.be/G8m1W-WBSrY))
+([Demo Dashboard Performance e Jornada do Paciente](https://youtu.be/OJpxr9lh3UQ))
 
 ## 🛠️ Tecnologias Utilizadas
 * **Python (Pandas/Numpy):** Enriquecimento de dados, precificação automática e simulação de cenários.
